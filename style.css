@@ -1,0 +1,60 @@
+title{
+
+}
+
+#profile{
+  font-size: 80px;
+  margin-left: 650px;
+  margin-top: 30px;
+  font-family: 'Teko';
+}
+#header{
+  font-size: 80px;
+  margin-left: 600px;
+  margin-top: 30px;
+  font-family: 'Teko';
+}
+
+h1{
+  font-size: 90px;
+  margin-left: 500px;
+  margin-top: 30px;
+  font-family: 'Teko';
+}
+
+
+body{
+  background-image:url("https://img.freepik.com/free-vector/cute-diver-surfing-hand-drawn_194871-268.jpg?w=2000");
+  background-size: 400px;
+  font-family: 'Teko';
+  color:Pink;
+  font-size: 32px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.left{
+  float: left;
+  width: 200px;
+  display: inline-block;
+}
+.right{
+  position: relative;
+  float: right;
+  width: 200px;
+  display: inline-block;
+}
+.center{
+  position: relative;
+  margin-left: 200px;
+  display: inline-block;
+}
+
+.first-text{
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+
